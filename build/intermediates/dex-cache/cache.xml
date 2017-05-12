@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\jorge\OneDrive\Documentos\GitHub\CMUProject\app\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\jorge\OneDrive\Documentos\GitHub\CMUProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.2.0_b5e9f7872ac0be00aa984357c4923db122f76a82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jorge\OneDrive\Documentos\GitHub\CMUProject\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\jorge\OneDrive\Documentos\GitHub\CMUProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.2.0_c2dc617159baa87862c6f6117e9f1d054bb34ee6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jorge\OneDrive\Documentos\GitHub\meu\CMUProject\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\jorge\OneDrive\Documentos\GitHub\meu\CMUProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.2.0_4acca9babbaf8d1d685160f0fde02203cd8faf98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jorge\OneDrive\Documentos\GitHub\meu\CMUProject\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\jorge\OneDrive\Documentos\GitHub\meu\CMUProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.2.0_f5af374496e4c09f4b51e354d8e04870cb98a09b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jorge\OneDrive\Documentos\GitHub\CMUProject\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\jorge\OneDrive\Documentos\GitHub\CMUProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_6943646f40eab7af19b04533e71a3d115d6b38c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jorge\OneDrive\Documentos\GitHub\meu\CMUProject\app\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\jorge\OneDrive\Documentos\GitHub\meu\CMUProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.2.0_13339dd70ff1ef482cb15beb0fecc24e5ed37f78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jorge\OneDrive\Documentos\GitHub\CMUProject\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\jorge\OneDrive\Documentos\GitHub\CMUProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.2.0_fa21cd10239fd73e9cf5fae280721a6a1a70e41a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jorge\OneDrive\Documentos\GitHub\CMUProject\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\jorge\OneDrive\Documentos\GitHub\CMUProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.2.0_e5c3c6cbf132dbbae6f2498a493c2d37eef3859c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jorge\OneDrive\Documentos\GitHub\meu\CMUProject\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\jorge\OneDrive\Documentos\GitHub\meu\CMUProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.2.0_81f2a3da6f978d7b7dc97d6a832164400163eb36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jorge\OneDrive\Documentos\GitHub\CMUProject\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f28f9578ab89eb2f6e2ce4ac6222c78709f360c4">
+        <dex dex="C:\Users\jorge\OneDrive\Documentos\GitHub\CMUProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f868e3bc747bd34c3e0ee5764e1d7dc00d7799ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jorge\OneDrive\Documentos\GitHub\CMUProject\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\jorge\OneDrive\Documentos\GitHub\CMUProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.2.0_e83c4ed614efd323f6b2ae0864091d3be6baf8b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jorge\OneDrive\Documentos\GitHub\meu\CMUProject\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1cce1f44f9af98d282096fb21f05a8703317cfa">
+        <dex dex="C:\Users\jorge\OneDrive\Documentos\GitHub\meu\CMUProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_076d95f62ad9ed81d7a7ebde05dc5536c1977f3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jorge\OneDrive\Documentos\GitHub\CMUProject\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\jorge\OneDrive\Documentos\GitHub\CMUProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.2.0_028e48ff1f9f3d347dcce07f7e394e566ab10918\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jorge\OneDrive\Documentos\GitHub\CMUProject\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d31e5841a060ff75f6835080b39c9d636c695f5c">
+        <dex dex="C:\Users\jorge\OneDrive\Documentos\GitHub\CMUProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_801f872c1b4e137a74e380516a96005ac75a1bcb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jorge\OneDrive\Documentos\GitHub\meu\CMUProject\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\jorge\OneDrive\Documentos\GitHub\meu\CMUProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.2.0_865e104e132f2e85c0eedfc98f3f2e9d995a4d9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jorge\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\jorge\OneDrive\Documentos\GitHub\CMUProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_26eb1bec0467734a81328c9bac1529a4e963a636\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jorge\OneDrive\Documentos\GitHub\meu\CMUProject\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\jorge\OneDrive\Documentos\GitHub\meu\CMUProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.2_98e1eca84ed73cd8217f954eb4442f99fa2aca5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jorge\OneDrive\Documentos\GitHub\CMUProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\jorge\OneDrive\Documentos\GitHub\CMUProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.2.0_bcd5039530b855f423c2909fe0211c9d9607653e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jorge\OneDrive\Documentos\GitHub\meu\CMUProject\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\jorge\OneDrive\Documentos\GitHub\meu\CMUProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.2.0_37215979310b525c8c64d3f6b262047815bc89db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jorge\OneDrive\Documentos\GitHub\CMUProject\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\jorge\OneDrive\Documentos\GitHub\CMUProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.2.0_17ff8d3bdfea8795c39562b70f71d31c00766d4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jorge\OneDrive\Documentos\GitHub\meu\CMUProject\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\jorge\OneDrive\Documentos\GitHub\meu\CMUProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.2.0_1f98722d739ac3bd7d727967c9d2dcdc1809dc4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jorge\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\jorge\OneDrive\Documentos\GitHub\CMUProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_df06dd65682c7b8f9601801fe200127c677dd3c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jorge\OneDrive\Documentos\GitHub\meu\CMUProject\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\jorge\OneDrive\Documentos\GitHub\meu\CMUProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_642b5c66d9b60059798631be817b0246ffda1d21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jorge\OneDrive\Documentos\GitHub\CMUProject\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\jorge\OneDrive\Documentos\GitHub\CMUProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.2_45c58c6edbd52868c92b5206d8b5558a314b2982\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jorge\OneDrive\Documentos\GitHub\meu\CMUProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\jorge\OneDrive\Documentos\GitHub\meu\CMUProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.2.0_10b2caa3aed49a5851da035346bd4f523afc18bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jorge\OneDrive\Documentos\GitHub\meu\CMUProject\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\jorge\OneDrive\Documentos\GitHub\meu\CMUProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.2.0_a687d2c500506ffff3486368f53dc055a9710942\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jorge\OneDrive\Documentos\GitHub\meu\CMUProject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\jorge\OneDrive\Documentos\GitHub\meu\CMUProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.2.0_f2a976aee9d71f3d209ef6dcb6fe71ebd5e30a30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jorge\OneDrive\Documentos\GitHub\CMUProject\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\jorge\OneDrive\Documentos\GitHub\CMUProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_d43d9437e4cd4ccdd8058657f19d71cf3a9799a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jorge\OneDrive\Documentos\GitHub\CMUProject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\jorge\OneDrive\Documentos\GitHub\CMUProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.2.0_feda2ad70c27bb9940a339d752cbf70204c9b241\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jorge\OneDrive\Documentos\GitHub\meu\CMUProject\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9826da48e655e46c55a35809ac66f291ce6f4859">
+        <dex dex="C:\Users\jorge\OneDrive\Documentos\GitHub\meu\CMUProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_36b65fb7e8c2cac380979ff2809515bf99bf353e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jorge\OneDrive\Documentos\GitHub\meu\CMUProject\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\jorge\OneDrive\Documentos\GitHub\meu\CMUProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_13e82236e28940d20a16b4fff82870e88aacd0ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jorge\OneDrive\Documentos\GitHub\CMUProject\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\jorge\OneDrive\Documentos\GitHub\CMUProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.2.0_c46c919fb2e0567d9d733724ccb7b150b35e0fa5\classes.dex" />
+    </item>
+
+</items>
